@@ -1,0 +1,6 @@
+
+
+    
+totalpricein2021: 20
+totalpricein2022: 15
+totalpricein2023: 15 
